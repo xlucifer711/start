@@ -1,13 +1,13 @@
 {
   "name": "CristenUserbot",
-  "description": " source Cristen Powerful & Safe based on Telethon",
-  "logo": "https://telegra.ph/file/f10cca4add3116c3aee2d.jpg",
+  "description": " Arabic cr source Powerful & Safe based on Telethon",
+  "logo": "",
   "keywords": [
     "plugin",
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/xlucifer711/start",
+  "repository": "https://github.com/jmthonen/zuhairy",
   "website": "#TODO",
   "success_url": "#TODO",
   "env": {
