@@ -1,13 +1,13 @@
 {
-  "name": "CristenUserbot",
-  "description": " Arabic cr source Powerful & Safe based on Telethon",
+  "name": "cr_source",
+  "description": " Arabic c.r source Powerful & Safe based on Telethon",
   "logo": "",
   "keywords": [
     "plugin",
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/jmthonen/zuhairy",
+  "repository": "https://github.com/xlucifer711/start",
   "website": "#TODO",
   "success_url": "#TODO",
   "env": {
