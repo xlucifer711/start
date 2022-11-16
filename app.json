@@ -1,13 +1,13 @@
 {
-  "name": "cr_source",
-  "description": " Arabic c.r source Powerful & Safe based on Telethon",
-  "logo": "",
+  "name": "سورس كرستين",
+  "description": "اللهم صلِ على محمد وآل محمد",
+  "logo": "https://telegra.ph/file/83ee584aef1c4db1d9597.jpg",
   "keywords": [
     "plugin",
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/xlucifer711/start",
+  "repository": "https://github.com/xlucifer711/start/",
   "website": "#TODO",
   "success_url": "#TODO",
   "env": {
@@ -32,7 +32,7 @@
       "value": "."
     },
     "STRING_SESSION": {
-      "description": "هنا ضع كود سيشن تيليثون او بايروجرام كود تيرمكس الخاص بك",
+      "description": "هنا ضع كود سيشن تيليثون كود تيرمكس الخاص بك",
       "value": ""
     },
     "TG_BOT_USERNAME": {
@@ -49,7 +49,7 @@
       "required": false
     },
     "HEROKU_APP_NAME": {
-      "description": "اسم التطبيق",
+      "description": "اسم التطبيق اول مربع كتبته خلي هنا نفسه وحروف صغيره",
       "value": "",
       "required": false
     },
@@ -60,7 +60,7 @@
     },
     "UPSTREAM_REPO": {
       "description": "رمز السورس لا تغيره ابدا",
-      "value": "sbb_b",
+      "value": "sbb_b"
       "required": false
     }
   },
@@ -77,15 +77,14 @@
   },{
     "url":"https://github.com/heroku/heroku-buildpack-chromedriver"
   },{
-    "url": "https://github.com/opendoor-labs/heroku-buildpack-p7zip"
+    "url": "https://github.com/riganf/heroku-buildpack-p7zip"
+  },{
+    "url": "https://github.com/rahulps1000/heroku-buildpack-nodejs"
   },{
     "url": "https://github.com/heroku/heroku-buildpack-apt.git"
   },{
     "url": "https://github.com/chrismytton/heroku-buildpack-jq"
   },{
-    "url": "https://github.com/rahulps1000/heroku-buildpack-nodejs"
-  },{
     "url": "heroku/python"
-  }],
-  "stack": "heroku-22"
+  }]
 }
