@@ -1,5 +1,5 @@
 {
-  "name": "سورس كرستين",
+  "name": "سورس كرستين,
   "description": "اللهم صلِ على محمد وآل محمد",
   "logo": "https://telegra.ph/file/83ee584aef1c4db1d9597.jpg",
   "keywords": [
@@ -7,7 +7,7 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/xlucifer711/start/",
+  "repository": "https://github.com/xlucifer711/sbb_b/",
   "website": "#TODO",
   "success_url": "#TODO",
   "env": {
@@ -60,7 +60,7 @@
     },
     "UPSTREAM_REPO": {
       "description": "رمز السورس لا تغيره ابدا",
-      "value": "sbb_b"
+      "value": "sbb_b",
       "required": false
     }
   },
@@ -88,3 +88,4 @@
     "url": "heroku/python"
   }]
 }
+  
